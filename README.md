@@ -1,4 +1,4 @@
-# betterCaptcha | Uses Bitmap to create a picture of a captcha, very configurable. 
+# BetterCaptcha | Uses Bitmap to create a picture of a captcha, very configurable. 
 
 ###### Example Code:
 ```csharp 
